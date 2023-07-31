@@ -1,8 +1,8 @@
-- 👋 Hi there , I’m Tushar
+- 👋 Hi there, I’m Tushar
 - I am a learner
-- 👀 I’m interested in ...Web Developmeent and putting my steps in the front end development field
-- 🌱 I’m currently learning ...front end web development and data structures
-- 💞️ I’m looking to collaborate with other developers..
+- 👀 I’m interested in the field of data science
+- 🌱 I’m currently learning data analytics tools 
+- 💞️ I’m looking to collaborate with other developers.
 
 <!---
 vermatushar09/vermatushar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
